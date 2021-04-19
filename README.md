@@ -10,7 +10,7 @@ MERN JWT Auth app will allow users to
     *Register
     *Log in
     *Display User Info
- #Requirements:
+ ### Requirements:
  
  #Prerequisites
 
