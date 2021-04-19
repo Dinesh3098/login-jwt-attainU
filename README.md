@@ -29,7 +29,7 @@ Lastly, make sure you have the following installed.
 
 Getting Started
 
-    Either you can clone or download repository from GitHub.
+    1) Either you can clone or download repository from GitHub.
 
         Clone with HTTPS (required git installed in your system)
 
@@ -38,7 +38,27 @@ Getting Started
         Clone with SSH (required git installed in your system)
         
         git@github.com:Dinesh3098/login-jwt-attainU.git
+        
+   2) Navigate to project directory in the terminal or command prompt.
+      
+         cd login-jwt-attainU
+        
+   3) Install project dependencies
+         
+         npm install
+   4) Run the project server
+   
+         *  server
+         
+         * npm install
 
+    5) Project server is running at:
+
+      Development
+        Frontend server is running at http://localhost:3000
+        Backend server is running at http://localhost:8000
+
+         
         
 
 
