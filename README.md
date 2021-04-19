@@ -12,6 +12,34 @@ MERN JWT Auth app will allow users to
     *Display User Info
  ### Requirements:
  
- #Prerequisites
+ ## Prerequisites
 
 You should have at least a basic understanding of fundamental programming concepts and some experience with introductory HTML/CSS/Javascript. And the knowledge of MERN stack (Mongo, Express, React, Node) is an advantage.
+
+
+### Install
+
+Lastly, make sure you have the following installed.
+
+    * Latest version of Node.js
+    * Latest version of NPM (Node Package Manage)
+    * Latest version of MongoDB
+    * Latest version of git (This is optional. It requires only if you choose to clone project)
+
+
+Getting Started
+
+    Either you can clone or download repository from GitHub.
+
+        Clone with HTTPS (required git installed in your system)
+
+        https://github.com/Dinesh3098/login-jwt-attainU.git
+
+        Clone with SSH (required git installed in your system)
+        
+        git@github.com:Dinesh3098/login-jwt-attainU.git
+
+        
+
+
+
